@@ -1,9 +1,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.urbanus_calculator">
    <application
-        android:label="urbanus_calculator"
+        android:label="Wambua"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/calculator">
         <activity
             android:name=".MainActivity"
             android:exported="true"
